@@ -62,18 +62,8 @@
       "disabled": false
     },
     {
-      "entityType": "helpstarter_site",
-      "defaultFieldEligibilityGroup": "helpstarter_site.default",
-      "disabled": false
-    },
-    {
       "entityType": "product",
       "disabled": true
-    },
-    {
-      "entityType": "ce_site",
-      "defaultFieldEligibilityGroup": "ce_site.default",
-      "disabled": false
     }
   ]
 }
