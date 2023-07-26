@@ -1,0 +1,14 @@
+{
+  "$id": "helpstarter_homePage.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "homepage-default",
+  "entityType": "helpstarter_homePage",
+  "fields": [
+    "helpstarter_coverPhoto",
+    "helpstarter_featuredArticles",
+    "helpstarter_heading",
+    "helpstarter_subHeading",
+    "slug"
+  ],
+  "required": []
+}

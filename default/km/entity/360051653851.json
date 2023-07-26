@@ -1,0 +1,26 @@
+{
+  "$id": "360051653851",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "body": "This article covers how to add a Privacy Policy link to your account. This field must be filled out with a valid URL in order to send review invitations from the Yext platform.\n\n\n\n\n\nTo add a Review Generation Privacy Policy Link:\n\n\n\n\n\n1. Click **Reviews** in the navigation bar and click **Generation**.\n2. Click **Settings**.\n3. Click on the **Review Generation Privacy Policy** field and add your Privacy Policy link to the text box.\n4. Click **Save**.",
+    "externalArticlePostDate": "2020-10-27",
+    "externalArticleUpdateDate": "2022-05-11",
+    "helpstarter_category": "115001611143",
+    "helpstarter_helpArticleBodyMarkdown": {
+      "markdown": "\u003cp\u003e\u003cspan style\u003d\"font-weight: 400;\"\u003eThis article covers how to add a Privacy Policy link to your account. This field must be filled out with a valid URL in order to send review invitations from the Yext platform. \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style\u003d\"font-weight: 400;\"\u003eTo add a Review Generation Privacy Policy Link:\u003c/span\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli style\u003d\"font-weight: 400;\"\u003e\n\u003cspan style\u003d\"font-weight: 400;\"\u003eClick \u003cstrong\u003eReviews\u003c/strong\u003e in the navigation bar and click \u003cstrong\u003eGeneration\u003c/strong\u003e\u003c/span\u003e\u003cspan style\u003d\"font-weight: 400;\"\u003e.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli style\u003d\"font-weight: 400;\"\u003e\n\u003cspan style\u003d\"font-weight: 400;\"\u003eClick \u003c/span\u003e\u003cspan style\u003d\"font-weight: 400;\"\u003e\u003cstrong\u003eSettings\u003c/strong\u003e\u003c/span\u003e\u003cspan style\u003d\"font-weight: 400;\"\u003e. \u003c/span\u003e\n\u003c/li\u003e\n\u003cli style\u003d\"font-weight: 400;\"\u003e\n\u003cspan style\u003d\"font-weight: 400;\"\u003eClick on the \u003c/span\u003e\u003cstrong\u003eReview Generation Privacy Policy\u003c/strong\u003e\u003cspan style\u003d\"font-weight: 400;\"\u003e field and add your Privacy Policy link to the text box.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli style\u003d\"font-weight: 400;\"\u003eClick \u003cstrong style\u003d\"font-family: -apple-system, BlinkMacSystemFont, \u0027Segoe UI\u0027, Helvetica, Arial, sans-serif;\"\u003eSave\u003c/strong\u003e\u003cspan style\u003d\"font-weight: 400;\"\u003e.\u003c/span\u003e\n\u003c/li\u003e\n\u003c/ol\u003e"
+    },
+    "keywords": [
+      "all_channels",
+      "all_regions"
+    ],
+    "landingPageUrl": "https://help.yext.com/hc/en-us/articles/360051653851-Add-Review-Generation-Privacy-Policy-Link",
+    "name": "Add Review Generation Privacy Policy Link",
+    "promoted": false,
+    "slug": "360051653851",
+    "voteCount": 2,
+    "voteSum": -2
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

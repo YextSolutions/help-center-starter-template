@@ -1,0 +1,12 @@
+{
+  "$id": "helpstarter_site.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Site-default",
+  "entityType": "helpstarter_site",
+  "fields": [
+    "instagramHandle",
+    "logo",
+    "twitterHandle"
+  ],
+  "required": []
+}

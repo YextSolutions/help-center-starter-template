@@ -1,0 +1,300 @@
+{
+  "$id": "helpstarter_5d358314-2bd4-4053-985b-c5069b0a6f81",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "There has been huge progress in developing treatments for patients with COVID\\-19. Treatments for COVID\\-19 should be decided on an individual basis between the person and the healthcare professional looking after them. The choice will depend on the severity of disease and the risk of disease worsening (including the person\u0027s age and whether they have any health problems). WHO maintains a list of recommended treatments, together with the evidence for each, available at [https://app.magicapp.org/#/guideline/nBkO1E](https://app.magicapp.org/#/guideline/nBkO1E).\n\n\n\n\n\nThese currently include:\n\n\n\n\n\n* for non\\-severe COVID\\-19: nirmatrelvir\\-ritonavir; molnupiravir; remdesivir\n* for severe COVID\\-19: corticosteroids (including dexamethasone); IL\\-6 receptor blockers (tocilizumab or sarilumab); baricitinib; remdesivir.\n\n\n\n\n\nApart from these medications, amongst the most commonly and globally used, and important treatments is oxygen for severely ill patients. WHO leads work which aims to improve global capacity and access to oxygen production, distribution and supply to patients.\n\n\n\n\n\nFor corticosteroids, further specific information can be found in the Corticosteroids, including dexamethasone [questions and answers](https://www.who.int/emergencies/diseases/novel\\-coronavirus\\-2019/question\\-and\\-answers\\-hub/q\\-a\\-detail/coronavirus\\-disease\\-covid\\-19\\-dexamethasone).",
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "## Overview of COVID-19",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "COVID-19, caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), emerged as a global health crisis in late 2019. It quickly spread across continents, leading to significant disruptions in healthcare systems, economies, and daily life. The virus primarily spreads through respiratory droplets, making it highly contagious.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "*Symptoms*:",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "The symptoms of COVID-19 can vary widely, ranging from mild to severe, and may include fever, cough, shortness of breath, fatigue, loss of taste or smell, and body aches. Some individuals may be asymptomatic carriers, making early detection and testing crucial in controlling the spread.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "*Transmission*:",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "The virus mainly spreads through close contact with an infected person, either directly or indirectly through contaminated surfaces. Preventative measures such as wearing masks, practicing social distancing, and regular handwashing are vital in curbing transmission.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "*Treatment and Vaccination*:",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "While there is no specific antiviral treatment for COVID-19, supportive care and management of symptoms are the current approach. Vaccination campaigns have been rolled out globally, offering hope for preventing severe illness and reducing the transmission of the virus.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "*Global Impact*:",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "The pandemic has had far-reaching consequences on various sectors, with healthcare systems facing immense pressure, economies contracting, and educational institutions adapting to remote learning. Governments and international organizations collaborated to address the challenges and facilitate the equitable distribution of resources, vaccines, and medical aid.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "*Conclusion*:",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "COVID-19 has been an unprecedented global challenge, prompting widespread cooperation and innovation in public health. Despite the hardships, it has also highlighted the resilience and adaptability of societies worldwide, underscoring the importance of preparedness and solidarity in combating future pandemics.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            },
+            {
+              "children": [],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "helpstarter_fAQAnswerMarkdown": {
+      "markdown": "## Overview of COVID-19\n\nCOVID-19, caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), emerged as a global health crisis in late 2019. It quickly spread across continents, leading to significant disruptions in healthcare systems, economies, and daily life. The virus primarily spreads through respiratory droplets, making it highly contagious.\n\n*Symptoms*:\nThe symptoms of COVID-19 can vary widely, ranging from mild to severe, and may include fever, cough, shortness of breath, fatigue, loss of taste or smell, and body aches. Some individuals may be asymptomatic carriers, making early detection and testing crucial in controlling the spread.\n\n*Transmission*:\nThe virus mainly spreads through close contact with an infected person, either directly or indirectly through contaminated surfaces. Preventative measures such as wearing masks, practicing social distancing, and regular handwashing are vital in curbing transmission.\n\n*Treatment and Vaccination*:\nWhile there is no specific antiviral treatment for COVID-19, supportive care and management of symptoms are the current approach. Vaccination campaigns have been rolled out globally, offering hope for preventing severe illness and reducing the transmission of the virus.\n\n*Global Impact*:\nThe pandemic has had far-reaching consequences on various sectors, with healthcare systems facing immense pressure, economies contracting, and educational institutions adapting to remote learning. Governments and international organizations collaborated to address the challenges and facilitate the equitable distribution of resources, vaccines, and medical aid.\n\n*Conclusion*:\nCOVID-19 has been an unprecedented global challenge, prompting widespread cooperation and innovation in public health. Despite the hardships, it has also highlighted the resilience and adaptability of societies worldwide, underscoring the importance of preparedness and solidarity in combating future pandemics.\n"
+    },
+    "name": "Are there treatments for COVID-19?",
+    "question": "Are there treatments for COVID-19?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

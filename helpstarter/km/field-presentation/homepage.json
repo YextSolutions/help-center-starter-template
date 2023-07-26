@@ -1,0 +1,57 @@
+{
+  "$id": "helpstarter_homepage",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "helpstarter_homePage",
+  "displayName": "homepage",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "helpstarter_coverPhoto"
+        },
+        {
+          "id": "helpstarter_heading"
+        },
+        {
+          "id": "helpstarter_subHeading"
+        },
+        {
+          "id": "helpstarter_featuredArticles"
+        },
+        {
+          "id": "slug"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}
