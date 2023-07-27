@@ -15,10 +15,10 @@
   },
   "branches": [
     {
-      "name": "master",
+      "name": "main",
       "envVars": [],
       "isProductionBranch": true,
-      "Active": false
+      "Active": true
     }
   ]
 }
