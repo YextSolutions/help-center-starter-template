@@ -1,4 +1,3 @@
-
 # **Help Center Template**
 
 
@@ -76,7 +75,7 @@ Both JAMBO theme and react search experiences are powered by a single search con
 
 ### JAMBO Theme
 
-The theme frontend includes a help article search experience. This search experience…
+The theme frontend includes a help article search experience.
 
 
 ### React
