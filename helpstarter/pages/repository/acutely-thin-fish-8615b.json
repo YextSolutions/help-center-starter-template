@@ -2,5 +2,5 @@
   "$id": "acutely-thin-fish-8615b",
   "$schema": "https://schema.yext.com/config/pages/repository/v1",
   "repoUrl": "github.com/yext-pages/help-site-starter-${{businessId}}",
-  "templateRepo": "http://github.com/yext-pages/Help-Center-Search"
+  "templateRepo": "github.com/yext-pages/Help-Center-Search"
 }
