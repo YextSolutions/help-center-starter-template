@@ -1,0 +1,50 @@
+{
+  "$schema": "https://schema.yext.com/config/chat/chat-bot/v1",
+  "$id": "help-center-bot",
+  "name": "Help Center Bot",
+  "initialMessage": "Hi! This is Help Center Bot. How can I help you?",
+  "goals": {
+    "CHIT_CHAT": {
+      "examples": [
+        "How are you doing?",
+        "What\u0027s going on?",
+        "What\u0027s your name?",
+        "Thank you!",
+        "Great"
+      ],
+      "goal": "Engage in a casual conversation with the user. If the user\u0027s message does not align with any other goals, this goal should be used.",
+      "instructions": [
+        {
+          "reply": {
+            "instruction": "Reply casually to the user, engaging in cordial conversation.",
+            "mode": "CONVERSATIONAL"
+          }
+        }
+      ]
+    },
+    "help": {
+      "examples": [
+        "How do I reset my password?",
+        "How can I make a return?",
+        "What hours are you open?",
+        "What is your policy?"
+      ],
+      "goal": "Help",
+      "instructions": [
+        {
+          "search": {
+            "experienceKey": "answers-help-site",
+            "instruction": "Search Yext Content when a user asks a question"
+          }
+        },
+        {
+          "reply": {
+            "citationExample": "Include link to the source",
+            "instruction": "Reply to the user with what you found",
+            "mode": "CONVERSATIONAL"
+          }
+        }
+      ]
+    }
+  }
+}
