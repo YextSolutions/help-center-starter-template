@@ -39,7 +39,6 @@
         },
         {
           "reply": {
-            "citationExample": "Include link to the source",
             "instruction": "Reply to the user with what you found",
             "mode": "CONVERSATIONAL"
           }
